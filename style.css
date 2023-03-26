@@ -1,0 +1,86 @@
+html {
+ scroll-behavior: smooth;
+  overflow-y: scroll;
+}
+body{ background-color: white;
+    }
+.log{
+  height:60px;
+    top:0px;
+    left:0px;
+     position:fixed;
+   }
+h1{
+  color: #f7203d ;
+  position:fixed;
+  top:4px;
+  left:40px;
+  font-size:1.5em;
+}
+.lin{ height:44px;
+     width:55px;
+   position:fixed;
+     top:10px;
+     right:0px;
+     
+}
+.sho{ height:44px;
+     position:fixed;
+     top:14px;
+    right:55px;
+     
+}
+.rog{ height:17px;
+     position:fixed;
+ align-items: centre;
+     z-index:1;
+     top:26px;
+     left:225px;
+}
+input{ width :120px;
+      position : fixed;
+      align-items: centre;
+      top:24px;
+      left:120px;
+      border:2px solid #f7203d;
+      border-radius:2em;
+}
+.mySlides{
+  width :330px;
+  align-items: center;
+  height:330px;
+  object-fit:cover;
+  position:fixed;
+  left:10px;
+  top: 140px;
+border:3px solid #f7203d;
+  border-radius:2em;
+  padding:2px;
+}
+h2{ 
+ font-size:30px;
+  align-items: center;
+    position: absolute;
+    top:40px;
+    left:80px;
+    word-spacing:66m;
+   } 
+h3{
+   position: absolute;
+   top:460px;
+   font-size:25px;
+  }
+h4{
+   position: absolute;
+   top:453px;
+   left:165px;
+   font-size:25px;
+  }
+h5{
+  position: absolute;
+ top:442px;
+  right:15px;
+  font-size:25px;
+  
+}
+  
